@@ -1,0 +1,15 @@
+#table-container{
+    padding: 0 50px;
+}
+table {
+    width: 100%;
+}
+
+td mat-icon:first-child{
+    margin-right: 20px;
+}
+
+mat-icon {
+    cursor: pointer;
+
+}
